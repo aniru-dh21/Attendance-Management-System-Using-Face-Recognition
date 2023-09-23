@@ -54,3 +54,4 @@ python main.py
 
 ## Demo Images
 
+<img src="Attendance3/abhishekgroup.jpeg" alt="Demo Image" width="700" height="700">
